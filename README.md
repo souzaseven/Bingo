@@ -2,7 +2,7 @@
 
 Um jogo de bingo completo com **cartela virtual** e **sistema de sorteio**, desenvolvido em HTML, CSS e JavaScript.
 
-![Preview](https://via.placeholder.com/800x400/007ced/ffffff?text=Bingo+Web+Interativo) *(adicione uma imagem real depois)*
+![Preview]([https://via.placeholder.com/800x400/007ced/ffffff?text=Bingo+Web+Interativo](https://github.com/souzaseven/Bingo/blob/jogos/painel-bingo.png?raw=true).
 
 ## ✨ Funcionalidades
 
