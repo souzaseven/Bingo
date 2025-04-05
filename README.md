@@ -26,8 +26,3 @@ Um jogo de bingo completo com **cartela virtual** e **sistema de sorteio**, dese
   - JavaScript (ES6)
   - jQuery (para manipulação do DOM)
 
-## 🚀 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/bingo-web.git
